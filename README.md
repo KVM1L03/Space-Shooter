@@ -25,6 +25,9 @@ Aby uruchomić grę, wykonaj następujące kroki:
 - Użyj myszy, aby sterować kątem obrotu statku kosmicznego.
 - Statek kosmiczny będzie strzelał automatycznie.
 
+## Gameplay
+![FilmbeztytuuWykonanozapomocClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0acda12b-2116-48ec-b5d0-9b414da4029e)
+
 ## Zależności
 
 Widok `JAVA PROJECTS` pozwala zarządzać zależnościami. Więcej szczegółów można znaleźć [tutaj](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
