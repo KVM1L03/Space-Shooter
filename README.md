@@ -26,7 +26,7 @@ Aby uruchomić grę, wykonaj następujące kroki:
 - Statek kosmiczny będzie strzelał automatycznie.
 
 ## Gameplay
-![FilmbeztytuuWykonanozapomocClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0acda12b-2116-48ec-b5d0-9b414da4029e)
+![FilmbeztytuuWykonanozapomocClipchamp-ezgif com-resize](https://github.com/user-attachments/assets/bb9a8479-424c-46e6-989b-7189ce8c56e6)
 
 ## Zależności
 
